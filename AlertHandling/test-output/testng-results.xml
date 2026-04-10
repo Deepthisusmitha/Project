@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-10T14:11:32 IST" name="Default suite" finished-at="2026-04-10T14:12:00 IST" duration-ms="28565">
+    <groups>
+    </groups>
+    <test started-at="2026-04-10T14:11:32 IST" name="Default test" finished-at="2026-04-10T14:12:00 IST" duration-ms="28565">
+      <class name="Test.AlertHandling">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.AlertHandling@c730b35]" started-at="2026-04-10T14:11:32 IST" name="setup" finished-at="2026-04-10T14:11:36 IST" duration-ms="3948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_ForgotPassword_NextWithoutInput_ShowsAlert_And_VerifyText()[pri:0, instance:Test.AlertHandling@c730b35]" started-at="2026-04-10T14:11:36 IST" name="test_ForgotPassword_NextWithoutInput_ShowsAlert_And_VerifyText" finished-at="2026-04-10T14:11:44 IST" duration-ms="8125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_ForgotPassword_NextWithoutInput_ShowsAlert_And_VerifyText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.AlertHandling@c730b35]" started-at="2026-04-10T14:11:44 IST" name="tearDown" finished-at="2026-04-10T14:11:46 IST" duration-ms="2101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.AlertHandling@c730b35]" started-at="2026-04-10T14:11:46 IST" name="setup" finished-at="2026-04-10T14:11:48 IST" duration-ms="2098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_PrivacyPolicy_OpensInNewTab_And_Verify()[pri:0, instance:Test.AlertHandling@c730b35]" started-at="2026-04-10T14:11:48 IST" name="test_PrivacyPolicy_OpensInNewTab_And_Verify" finished-at="2026-04-10T14:11:53 IST" duration-ms="4717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_PrivacyPolicy_OpensInNewTab_And_Verify -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.AlertHandling@c730b35]" started-at="2026-04-10T14:11:53 IST" name="tearDown" finished-at="2026-04-10T14:11:55 IST" duration-ms="1914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.AlertHandling@c730b35]" started-at="2026-04-10T14:11:55 IST" name="setup" finished-at="2026-04-10T14:11:57 IST" duration-ms="2017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_SignIn_EmptyFields_ShowsAlert_And_VerifyText()[pri:0, instance:Test.AlertHandling@c730b35]" started-at="2026-04-10T14:11:57 IST" name="test_SignIn_EmptyFields_ShowsAlert_And_VerifyText" finished-at="2026-04-10T14:11:59 IST" duration-ms="1766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_SignIn_EmptyFields_ShowsAlert_And_VerifyText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.AlertHandling@c730b35]" started-at="2026-04-10T14:11:59 IST" name="tearDown" finished-at="2026-04-10T14:12:00 IST" duration-ms="1804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.AlertHandling -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
